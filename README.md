@@ -60,3 +60,9 @@ After following the installation steps, you can start the application by running
 npm start
 ```
 The application will start running on http://localhost:3000. You can then use the provided API endpoints to interact with the application.
+
+#Screenshots
+
+![Storing id and name of coins into mongodb database](./images/mongo.png)
+![Giving a list of companies for that coin id](./images/companies.png)
+![Giving price of fromCurrency in terms of twoCurrency on that specified date](./images/convert.png)
